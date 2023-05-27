@@ -1,4 +1,4 @@
-# Flutter-DetailPage-Model-Activity
+# Flutter-DetaySayfası-Model-Aktivitesi
 
 Flutter ve Dart dili kullanılarak geliştirilmiş bir uygulamada, linklere tıkladığımızda detay sayfasına yönlendirme yapılıyor. Ayrıca, todolist aktivitesini geliştirdim ve düzenledim. Kodları aşağıdaki linkte paylaştım. Diğer videoları izlemek için sol taraftaki bağlantılara göz atabilirsiniz.
 
