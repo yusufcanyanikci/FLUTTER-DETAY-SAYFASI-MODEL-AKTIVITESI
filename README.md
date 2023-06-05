@@ -1,6 +1,6 @@
 # FLUTTER-DRAWER-DETAY-SAYFASI-MODEL-AKTIVITESI
 
-Flutter ve Dart dili kullanılarak geliştirilmiş bir uygulamada, linklere tıkladığımızda detay sayfasına yönlendirme yapılıyor. Ayrıca, todolist aktivitesini geliştirdim ve düzenledim. Kodları aşağıdaki linkte paylaştım. Diğer videoları izlemek için sol taraftaki bağlantılara göz atabilirsiniz.
+Flutter ve Dart dili kullanılarak geliştirilmiş bir uygulamada, linklere tıkladığımızda detay sayfasına yönlendirme yapılıyor. Ayrıca, todolist aktivitesini geliştirdim ve düzenledim. Kodları paylaştım. Diğer videoları izlemek için sol taraftaki bağlantılara göz atabilirsiniz.
 
 https://youtu.be/KmMWyM4a9fY
 
